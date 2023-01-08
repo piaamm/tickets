@@ -1,0 +1,6 @@
+discord.js
+chalk
+dotenv
+quickmongo ^3.0.2
+express
+16.x+
